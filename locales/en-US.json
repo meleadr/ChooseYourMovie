@@ -1,4 +1,6 @@
 {
 	"what-name": "What is your name ? ",
-	"hello": "Hello "
+	"hello": "Hello ",
+	"select-genre": "Select a genre ",
+	"recent": "Do you want to see a recent movie ? "
 }
